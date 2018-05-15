@@ -1,0 +1,19 @@
+{
+  "name": "eventflit-js",
+  "location": "git://github.com/eventflit/eventflit-js.git",
+  "description": "Eventflit JavaScript library for browsers, React Native, NodeJS and web workers",
+  "keywords": [
+    "eventflit",
+    "client",
+    "websocket",
+    "http",
+    "fallback",
+    "isomorphic",
+    "events",
+    "pubsub"
+  ],
+  "licence": "MIT",
+  "authors": ["Eventflit <support@eventflit.com>"],
+  "main": "./dist/web/eventflit.js",
+  "ignore": ["**/*", "!/dist/**/*", "!LICENCE", "!README.markdown", "!bower.json", "!CHANGELOG.markdown"]
+}

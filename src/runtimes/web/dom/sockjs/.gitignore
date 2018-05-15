@@ -1,0 +1,7 @@
+.pidfile.pid
+node_modules
+sockjs.js
+sockjs.min.js
+tests/html/lib/*.js
+.testling_env.sh
+testling.js
